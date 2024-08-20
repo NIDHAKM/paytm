@@ -1,0 +1,95 @@
+
+body {
+    margin: 0;
+    padding: 0;
+   
+}
+
+
+.navbar {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 20px 40px;
+    background-color: white;
+}
+
+.logo {
+    height: 40px;
+}
+
+.navbar ul {
+    list-style-type: none;
+    display: flex;
+    margin: 0;
+    padding: 0;
+    font-size: 17px;
+    font-weight: 600;
+    font-family: sans-serif;
+}
+
+.navbar li {
+    margin: 0 15px; /* Equal spacing between list items*/
+}
+.navbar a {
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 16px;
+    
+}
+
+
+.navbar button {
+    background-color: #00baf2;
+    color: white;
+    border: none;
+    padding: 2px 2px 2px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+    font-weight: bold;
+    transition: background-color 0.3s;
+}
+
+
+.image{
+    width: 80px;
+    height: 80px;
+    border-radius: 16px;
+}
+.div2{
+    margin-top: 50px;
+    margin-left: 10px;
+    
+}
+h1{
+    font-size: 54px;
+    font-weight: 700;
+    margin-top: 60px;
+    margin-bottom: 60px;
+}
+p{
+    font-size: 20px;
+    font-weight: 500;
+    margin-bottom: 40px;
+    line-height: 30px;
+    padding-top: 10px;
+    width: 475px;
+}
+#image2{
+    width: 528px;
+    height: 485px;
+    margin-left: 720px;
+    margin-top: -500px;
+}
+#button2{
+    border: none;
+    background-color: black;
+    color: white;
+   
+}
+.button2 img{
+    color: white;
+}
+
